@@ -4,7 +4,8 @@ Hi 👋 My name is Victor Hugo
 Front-end Dev and Project leader
 --------------------------------
 
-Passionate about learning new technologies and frameworks since I was 12 years old I'm graduated in IT technician and I'm studying Computer Engineering
+Passionate about learning new technologies and frameworks since I was 12 years old 
+I'm graduated in IT technician and I'm studying Computer Engineering
 
 *   🌍  I'm based in Brazil - São Paulo
 *   🧠  I'm learning Bootstrap and Sass
