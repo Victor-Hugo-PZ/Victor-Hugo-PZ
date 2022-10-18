@@ -12,9 +12,9 @@ Passionate about learning new technologies and frameworks since I was 12 years o
 *   ⚡  Call me Tetola with you want
 
 
-<a  align="center" href="https://www.twitter.com/Tetola8" target="_blank" rel="noreferrer"><img
+<a  align="center" href="https://www.twitter.com/Tetola8" target="_blank" rel="noreferrer"><img align="center"
                   src="https://img.shields.io/twitter/follow/Tetola8?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
-                /></a><a href="https://www.twitch.tv/tetolagamer" target="_blank" rel="noreferrer"><img
+                /></a><a href="https://www.twitch.tv/tetolagamer" target="_blank" rel="noreferrer"><img align="center"
                   src="https://img.shields.io/twitch/status/tetolagamer?logo=twitchsx&style=for-the-badge&color=ec4899&labelColor=1c1917&label=TWITCH+STATUS" /></a>
                   
                   
@@ -55,7 +55,6 @@ Passionate about learning new technologies and frameworks since I was 12 years o
 
 
 
-<b align="center">My GitHub Stats</b>
 
 <a  align="center" href="http://www.github.com/Victor-Hugo-PZ"><img src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-PZ&show_icons=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Victor-Hugo-PZ's GitHub stats" /></a>
                      </a>
