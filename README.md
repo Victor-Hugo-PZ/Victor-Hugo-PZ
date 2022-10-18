@@ -13,6 +13,14 @@ I'm graduated in IT technician and I'm studying Computer Engineering
 *   ⚡  Call me Tetola with you want
 
 
+
+
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Victor-Hugo-PZ=PROFILE+VIEWS)
+
+
 <a href="https://www.twitter.com/Tetola8" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Tetola8?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/tetolagamer" target="_blank" rel="noreferrer"><img
@@ -59,3 +67,17 @@ I'm graduated in IT technician and I'm studying Computer Engineering
 
 <a  align="center" href="http://www.github.com/Victor-Hugo-PZ"><img src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-PZ&show_icons=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Victor-Hugo-PZ's GitHub stats" /></a>
                      </a>
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
