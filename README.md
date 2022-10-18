@@ -17,8 +17,7 @@ I'm graduated in IT technician and I'm studying Computer Engineering
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
-![](https://komarev.com/ghpvc/?username=Victor-Hugo-PZ=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Victor-Hugo-PZ)
 
 
 <a href="https://www.twitter.com/Tetola8" target="_blank" rel="noreferrer"><img
