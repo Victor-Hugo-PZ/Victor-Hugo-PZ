@@ -64,6 +64,16 @@ Passionate about learning new technologies and frameworks since I was 12 years o
                      
                      ### Badges
 
+
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Tetola#4226" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Victor-Hugo-PZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/viktor_.hugo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/victor-hugo-pinto-zakimi-9b9517232/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Tetola8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Victor-Hugo-PZ"><img src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-PZ&show_icons=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Victor-Hugo-PZ's GitHub stats" /></a>
