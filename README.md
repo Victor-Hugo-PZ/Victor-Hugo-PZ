@@ -1,9 +1,6 @@
 Hi 👋 My name is Victor Hugo
 ============================
 
-Front-end Dev and Project leader
---------------------------------
-
 ### | Long story short
 Passionate about learning new technologies and frameworks since I was 12 years old <br>
 I'm graduated in IT technician and I'm studying Computer Engineering
