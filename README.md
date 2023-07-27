@@ -94,7 +94,4 @@ I'm graduated in IT technician and I'm studying Computer Engineering
 
 
 
-<a align="center" href="http://www.github.com/Victor-Hugo-PZ"><img
-        src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-PZ&show_icons=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true"
-        alt="Victor-Hugo-PZ's GitHub stats" /></a>
-</a>
+
