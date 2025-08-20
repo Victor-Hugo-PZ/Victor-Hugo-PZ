@@ -11,7 +11,7 @@ I'm graduated in IT technician and I'm studying Computer Engineering
 <br>
 » 🤝  I'm open to collaborating on Almost everything
 <br>
-» ⚡  Call me Tetola with you want
+» ⚡  Call me Pablowith you want
 
 
 
